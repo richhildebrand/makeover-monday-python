@@ -30,15 +30,14 @@ RUN chmod -R 777 /jupyter
 # End Juypter Notebook Extensions
 
 
-# Intall TinyTex
-RUN wget -qO- "https://yihui.name/gh/tinytex/tools/install-unx.sh" | sh
-
-
 # Allow PDF backend
 RUN mkdir -p /jupyter/.config/matplotlib
 RUN echo "backend : pgf" > /jupyter/.config/matplotlib/matplotlibrc
 
 USER jovyan
+
+# Intall TinyTex
+RUN wget -qO- "https://yihui.name/gh/tinytex/tools/install-unx.sh" | sh
 
 RUN pip install xgboost && \
     pip install shap && \

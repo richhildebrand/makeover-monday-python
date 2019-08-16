@@ -34,13 +34,15 @@ RUN chmod -R 777 /jupyter
 RUN mkdir -p /jupyter/.config/matplotlib
 RUN echo "backend : pgf" > /jupyter/.config/matplotlib/matplotlibrc
 
-USER jovyan
+
+#USER jovyan
 
 # Intall TinyTex
 RUN wget -qO- "https://yihui.name/gh/tinytex/tools/install-unx.sh" | sh
+RUN apt-get update && apt-get -y install dvipng
+
 
 RUN pip install xgboost && \
     pip install shap && \
     pip install sklearn-pandas && \
     pip install pandas -U \
-

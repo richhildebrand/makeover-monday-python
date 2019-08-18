@@ -1,6 +1,6 @@
 FROM jupyter/tensorflow-notebook
-
 USER root
+
 
 RUN apt-get update -y && \
     apt-get install -y build-essential && \
@@ -33,6 +33,12 @@ RUN chmod -R 777 /jupyter
 # Allow PDF backend
 RUN mkdir -p /jupyter/.config/matplotlib
 RUN echo "backend : pgf" > /jupyter/.config/matplotlib/matplotlibrc
+
+
+# Install Wand for displaying pdfs
+RUN sudo apt-get install libmagickwand-dev -y
+RUN pip install Wand
+RUN rm -f /etc/ImageMagick-6/policy.xml
 
 
 #USER jovyan

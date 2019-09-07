@@ -1,0 +1,589 @@
+﻿Rank,Player,Nationality,Metric,Stat
+1,Pierre-Emerick Aubameyang,Gabon,Appearances,36
+2,Alex Iwobi,Nigeria,Appearances,35
+2,Alexandre Lacazette,France,Appearances,35
+4,Lucas Torreira,Uruguay,Appearances,34
+5,Matteo Guendouzi,France,Appearances,33
+6,Bernd Leno,Germany,Appearances,32
+7,Shkodran Mustafi,Germany,Appearances,31
+8,Granit Xhaka,Switzerland,Appearances,29
+9,Aaron Ramsey,Wales,Appearances,28
+10,Henrikh Mkhitaryan,Armenia,Appearances,25
+10,Sokratis,Greece,Appearances,25
+12,Mesut Özil,Germany,Appearances,24
+12,Sead Kolasinac,Bosnia And Herzegovina,Appearances,24
+14,Nacho Monreal,Spain,Appearances,22
+15,Héctor Bellerín,Spain,Appearances,19
+16,Laurent Koscielny,France,Appearances,17
+17,Ainsley Maitland-Niles,England,Appearances,16
+18,Stephan Lichtsteiner,Switzerland,Appearances,14
+19,Rob Holding,England,Appearances,10
+20,Danny Welbeck,England,Appearances,8
+20,Mohamed Elneny,Egypt,Appearances,8
+22,Petr Cech,Czech Republic,Appearances,7
+23,Eddie Nketiah,England,Appearances,5
+24,Denis Suárez,Spain,Appearances,4
+24,Konstantinos Mavropanos,Greece,Appearances,4
+26,Carl Jenkinson,England,Appearances,3
+27,Joe Willock,England,Appearances,2
+28,Bukayo Saka,England,Appearances,1
+1,Alexandre Lacazette,France,Assists,8
+2,Aaron Ramsey,Wales,Assists,6
+2,Alex Iwobi,Nigeria,Assists,6
+4,Héctor Bellerín,Spain,Assists,5
+4,Pierre-Emerick Aubameyang,Gabon,Assists,5
+4,Sead Kolasinac,Bosnia And Herzegovina,Assists,5
+7,Henrikh Mkhitaryan,Armenia,Assists,4
+8,Nacho Monreal,Spain,Assists,3
+9,Granit Xhaka,Switzerland,Assists,2
+9,Lucas Torreira,Uruguay,Assists,2
+9,Mesut Özil,Germany,Assists,2
+9,Sokratis,Greece,Assists,2
+13,Ainsley Maitland-Niles,England,Assists,1
+13,Danny Welbeck,England,Assists,1
+14,Bernd Leno,Germany,Assists,0
+14,Bukayo Saka,England,Assists,0
+14,Carl Jenkinson,England,Assists,0
+14,Denis Suárez,Spain,Assists,0
+14,Eddie Nketiah,England,Assists,0
+14,Joe Willock,England,Assists,0
+14,Konstantinos Mavropanos,Greece,Assists,0
+14,Laurent Koscielny,France,Assists,0
+14,Matteo Guendouzi,France,Assists,0
+14,Mohamed Elneny,Egypt,Assists,0
+14,Petr Cech,Czech Republic,Assists,0
+14,Rob Holding,England,Assists,0
+14,Shkodran Mustafi,Germany,Assists,0
+14,Stephan Lichtsteiner,Switzerland,Assists,0
+1,Pierre-Emerick Aubameyang,Gabon,Big Chances Missed,23
+2,Alexandre Lacazette,France,Big Chances Missed,13
+3,Henrikh Mkhitaryan,Armenia,Big Chances Missed,4
+4,Alex Iwobi,Nigeria,Big Chances Missed,3
+5,Aaron Ramsey,Wales,Big Chances Missed,2
+6,Granit Xhaka,Switzerland,Big Chances Missed,1
+6,Laurent Koscielny,France,Big Chances Missed,1
+6,Mesut Özil,Germany,Big Chances Missed,1
+6,Nacho Monreal,Spain,Big Chances Missed,1
+6,Shkodran Mustafi,Germany,Big Chances Missed,1
+7,Ainsley Maitland-Niles,England,Big Chances Missed,0
+7,Bernd Leno,Germany,Big Chances Missed,0
+7,Bukayo Saka,England,Big Chances Missed,0
+7,Carl Jenkinson,England,Big Chances Missed,0
+7,Danny Welbeck,England,Big Chances Missed,0
+7,Denis Suárez,Spain,Big Chances Missed,0
+7,Eddie Nketiah,England,Big Chances Missed,0
+7,Héctor Bellerín,Spain,Big Chances Missed,0
+7,Joe Willock,England,Big Chances Missed,0
+7,Konstantinos Mavropanos,Greece,Big Chances Missed,0
+7,Lucas Torreira,Uruguay,Big Chances Missed,0
+7,Matteo Guendouzi,France,Big Chances Missed,0
+7,Mohamed Elneny,Egypt,Big Chances Missed,0
+7,Petr Cech,Czech Republic,Big Chances Missed,0
+7,Rob Holding,England,Big Chances Missed,0
+7,Sead Kolasinac,Bosnia And Herzegovina,Big Chances Missed,0
+7,Sokratis,Greece,Big Chances Missed,0
+7,Stephan Lichtsteiner,Switzerland,Big Chances Missed,0
+1,Shkodran Mustafi,Germany,Clearances,161
+2,Sokratis,Greece,Clearances,108
+3,Laurent Koscielny,France,Clearances,70
+4,Granit Xhaka,Switzerland,Clearances,54
+4,Nacho Monreal,Spain,Clearances,54
+6,Rob Holding,England,Clearances,37
+7,Héctor Bellerín,Spain,Clearances,33
+8,Bernd Leno,Germany,Clearances,32
+9,Lucas Torreira,Uruguay,Clearances,31
+10,Alexandre Lacazette,France,Clearances,29
+11,Sead Kolasinac,Bosnia And Herzegovina,Clearances,25
+12,Matteo Guendouzi,France,Clearances,24
+13,Stephan Lichtsteiner,Switzerland,Clearances,23
+14,Pierre-Emerick Aubameyang,Gabon,Clearances,18
+15,Ainsley Maitland-Niles,England,Clearances,11
+15,Henrikh Mkhitaryan,Armenia,Clearances,11
+17,Alex Iwobi,Nigeria,Clearances,10
+18,Mohamed Elneny,Egypt,Clearances,8
+19,Petr Cech,Czech Republic,Clearances,7
+20,Konstantinos Mavropanos,Greece,Clearances,5
+21,Mesut Özil,Germany,Clearances,4
+22,Aaron Ramsey,Wales,Clearances,3
+23,Carl Jenkinson,England,Clearances,2
+24,Danny Welbeck,England,Clearances,1
+24,Eddie Nketiah,England,Clearances,1
+25,Bukayo Saka,England,Clearances,0
+25,Denis Suárez,Spain,Clearances,0
+25,Joe Willock,England,Clearances,0
+1,Ainsley Maitland-Niles,England,Clearances Off Line,1
+1,Nacho Monreal,Spain,Clearances Off Line,1
+1,Shkodran Mustafi,Germany,Clearances Off Line,1
+2,Aaron Ramsey,Wales,Clearances Off Line,0
+2,Alex Iwobi,Nigeria,Clearances Off Line,0
+2,Alexandre Lacazette,France,Clearances Off Line,0
+2,Bernd Leno,Germany,Clearances Off Line,0
+2,Bukayo Saka,England,Clearances Off Line,0
+2,Carl Jenkinson,England,Clearances Off Line,0
+2,Danny Welbeck,England,Clearances Off Line,0
+2,Denis Suárez,Spain,Clearances Off Line,0
+2,Eddie Nketiah,England,Clearances Off Line,0
+2,Granit Xhaka,Switzerland,Clearances Off Line,0
+2,Héctor Bellerín,Spain,Clearances Off Line,0
+2,Henrikh Mkhitaryan,Armenia,Clearances Off Line,0
+2,Joe Willock,England,Clearances Off Line,0
+2,Konstantinos Mavropanos,Greece,Clearances Off Line,0
+2,Laurent Koscielny,France,Clearances Off Line,0
+2,Lucas Torreira,Uruguay,Clearances Off Line,0
+2,Matteo Guendouzi,France,Clearances Off Line,0
+2,Mesut Özil,Germany,Clearances Off Line,0
+2,Mohamed Elneny,Egypt,Clearances Off Line,0
+2,Petr Cech,Czech Republic,Clearances Off Line,0
+2,Pierre-Emerick Aubameyang,Gabon,Clearances Off Line,0
+2,Rob Holding,England,Clearances Off Line,0
+2,Sead Kolasinac,Bosnia And Herzegovina,Clearances Off Line,0
+2,Sokratis,Greece,Clearances Off Line,0
+2,Stephan Lichtsteiner,Switzerland,Clearances Off Line,0
+1,Alexandre Lacazette,France,Dispossessed,61
+2,Alex Iwobi,Nigeria,Dispossessed,56
+3,Mesut Özil,Germany,Dispossessed,34
+4,Pierre-Emerick Aubameyang,Gabon,Dispossessed,33
+5,Matteo Guendouzi,France,Dispossessed,31
+6,Lucas Torreira,Uruguay,Dispossessed,28
+7,Aaron Ramsey,Wales,Dispossessed,27
+8,Henrikh Mkhitaryan,Armenia,Dispossessed,25
+9,Ainsley Maitland-Niles,England,Dispossessed,17
+9,Granit Xhaka,Switzerland,Dispossessed,17
+9,Sead Kolasinac,Bosnia And Herzegovina,Dispossessed,17
+12,Héctor Bellerín,Spain,Dispossessed,15
+13,Stephan Lichtsteiner,Switzerland,Dispossessed,13
+14,Shkodran Mustafi,Germany,Dispossessed,6
+15,Sokratis,Greece,Dispossessed,5
+16,Carl Jenkinson,England,Dispossessed,3
+16,Danny Welbeck,England,Dispossessed,3
+16,Eddie Nketiah,England,Dispossessed,3
+16,Laurent Koscielny,France,Dispossessed,3
+16,Mohamed Elneny,Egypt,Dispossessed,3
+16,Nacho Monreal,Spain,Dispossessed,3
+22,Joe Willock,England,Dispossessed,2
+22,Rob Holding,England,Dispossessed,2
+24,Bernd Leno,Germany,Dispossessed,1
+24,Denis Suárez,Spain,Dispossessed,1
+25,Bukayo Saka,England,Dispossessed,0
+25,Konstantinos Mavropanos,Greece,Dispossessed,0
+25,Petr Cech,Czech Republic,Dispossessed,0
+1,Alexandre Lacazette,France,Fouls,51
+2,Granit Xhaka,Switzerland,Fouls,45
+3,Shkodran Mustafi,Germany,Fouls,42
+4,Lucas Torreira,Uruguay,Fouls,38
+5,Sokratis,Greece,Fouls,37
+6,Henrikh Mkhitaryan,Armenia,Fouls,27
+7,Matteo Guendouzi,France,Fouls,24
+8,Aaron Ramsey,Wales,Fouls,21
+8,Sead Kolasinac,Bosnia And Herzegovina,Fouls,21
+10,Nacho Monreal,Spain,Fouls,17
+11,Héctor Bellerín,Spain,Fouls,16
+12,Pierre-Emerick Aubameyang,Gabon,Fouls,13
+13,Stephan Lichtsteiner,Switzerland,Fouls,11
+14,Mesut Özil,Germany,Fouls,10
+15,Laurent Koscielny,France,Fouls,9
+16,Ainsley Maitland-Niles,England,Fouls,8
+16,Alex Iwobi,Nigeria,Fouls,8
+18,Rob Holding,England,Fouls,6
+19,Danny Welbeck,England,Fouls,3
+20,Konstantinos Mavropanos,Greece,Fouls,2
+21,Carl Jenkinson,England,Fouls,1
+21,Eddie Nketiah,England,Fouls,1
+21,Mohamed Elneny,Egypt,Fouls,1
+22,Bernd Leno,Germany,Fouls,0
+22,Bukayo Saka,England,Fouls,0
+22,Denis Suárez,Spain,Fouls,0
+22,Joe Willock,England,Fouls,0
+22,Petr Cech,Czech Republic,Fouls,0
+1,Pierre-Emerick Aubameyang,Gabon,Goals,22
+2,Alexandre Lacazette,France,Goals,13
+3,Henrikh Mkhitaryan,Armenia,Goals,6
+4,Mesut Özil,Germany,Goals,5
+5,Aaron Ramsey,Wales,Goals,4
+5,Granit Xhaka,Switzerland,Goals,4
+7,Alex Iwobi,Nigeria,Goals,3
+7,Laurent Koscielny,France,Goals,3
+9,Lucas Torreira,Uruguay,Goals,2
+9,Shkodran Mustafi,Germany,Goals,2
+11,Ainsley Maitland-Niles,England,Goals,1
+11,Danny Welbeck,England,Goals,1
+11,Eddie Nketiah,England,Goals,1
+11,Nacho Monreal,Spain,Goals,1
+11,Sokratis,Greece,Goals,1
+12,Bernd Leno,Germany,Goals,0
+12,Bukayo Saka,England,Goals,0
+12,Carl Jenkinson,England,Goals,0
+12,Denis Suárez,Spain,Goals,0
+12,Héctor Bellerín,Spain,Goals,0
+12,Joe Willock,England,Goals,0
+12,Konstantinos Mavropanos,Greece,Goals,0
+12,Matteo Guendouzi,France,Goals,0
+12,Mohamed Elneny,Egypt,Goals,0
+12,Petr Cech,Czech Republic,Goals,0
+12,Rob Holding,England,Goals,0
+12,Sead Kolasinac,Bosnia And Herzegovina,Goals,0
+12,Stephan Lichtsteiner,Switzerland,Goals,0
+1,Bernd Leno,Germany,High Claim,10
+2,Petr Cech,Czech Republic,High Claim,6
+3,Aaron Ramsey,Wales,High Claim,0
+3,Ainsley Maitland-Niles,England,High Claim,0
+3,Alex Iwobi,Nigeria,High Claim,0
+3,Alexandre Lacazette,France,High Claim,0
+3,Bukayo Saka,England,High Claim,0
+3,Carl Jenkinson,England,High Claim,0
+3,Danny Welbeck,England,High Claim,0
+3,Denis Suárez,Spain,High Claim,0
+3,Eddie Nketiah,England,High Claim,0
+3,Granit Xhaka,Switzerland,High Claim,0
+3,Héctor Bellerín,Spain,High Claim,0
+3,Henrikh Mkhitaryan,Armenia,High Claim,0
+3,Joe Willock,England,High Claim,0
+3,Konstantinos Mavropanos,Greece,High Claim,0
+3,Laurent Koscielny,France,High Claim,0
+3,Lucas Torreira,Uruguay,High Claim,0
+3,Matteo Guendouzi,France,High Claim,0
+3,Mesut Özil,Germany,High Claim,0
+3,Mohamed Elneny,Egypt,High Claim,0
+3,Nacho Monreal,Spain,High Claim,0
+3,Pierre-Emerick Aubameyang,Gabon,High Claim,0
+3,Rob Holding,England,High Claim,0
+3,Sead Kolasinac,Bosnia And Herzegovina,High Claim,0
+3,Shkodran Mustafi,Germany,High Claim,0
+3,Sokratis,Greece,High Claim,0
+3,Stephan Lichtsteiner,Switzerland,High Claim,0
+1,Pierre-Emerick Aubameyang,Gabon,Hit Woodwork,4
+2,Alexandre Lacazette,France,Hit Woodwork,1
+2,Henrikh Mkhitaryan,Armenia,Hit Woodwork,1
+2,Lucas Torreira,Uruguay,Hit Woodwork,1
+2,Mesut Özil,Germany,Hit Woodwork,1
+6,Shkodran Mustafi,Germany,Hit Woodwork,0
+7,Aaron Ramsey,Wales,Hit Woodwork,0
+7,Ainsley Maitland-Niles,England,Hit Woodwork,0
+7,Alex Iwobi,Nigeria,Hit Woodwork,0
+7,Bernd Leno,Germany,Hit Woodwork,0
+7,Bukayo Saka,England,Hit Woodwork,0
+7,Carl Jenkinson,England,Hit Woodwork,0
+7,Danny Welbeck,England,Hit Woodwork,0
+7,Denis Suárez,Spain,Hit Woodwork,0
+7,Eddie Nketiah,England,Hit Woodwork,0
+7,Granit Xhaka,Switzerland,Hit Woodwork,0
+7,Héctor Bellerín,Spain,Hit Woodwork,0
+7,Joe Willock,England,Hit Woodwork,0
+7,Konstantinos Mavropanos,Greece,Hit Woodwork,0
+7,Laurent Koscielny,France,Hit Woodwork,0
+7,Matteo Guendouzi,France,Hit Woodwork,0
+7,Mohamed Elneny,Egypt,Hit Woodwork,0
+7,Nacho Monreal,Spain,Hit Woodwork,0
+7,Petr Cech,Czech Republic,Hit Woodwork,0
+7,Rob Holding,England,Hit Woodwork,0
+7,Sead Kolasinac,Bosnia And Herzegovina,Hit Woodwork,0
+7,Sokratis,Greece,Hit Woodwork,0
+7,Stephan Lichtsteiner,Switzerland,Hit Woodwork,0
+1,Bernd Leno,Germany,Minutes Played,2835
+2,Pierre-Emerick Aubameyang,Gabon,Minutes Played,2731
+3,Shkodran Mustafi,Germany,Minutes Played,2615
+4,Alexandre Lacazette,France,Minutes Played,2505
+5,Granit Xhaka,Switzerland,Minutes Played,2501
+6,Lucas Torreira,Uruguay,Minutes Played,2379
+7,Sokratis,Greece,Minutes Played,2199
+8,Matteo Guendouzi,France,Minutes Played,2142
+9,Alex Iwobi,Nigeria,Minutes Played,1972
+10,Sead Kolasinac,Bosnia And Herzegovina,Minutes Played,1890
+11,Nacho Monreal,Spain,Minutes Played,1861
+12,Mesut Özil,Germany,Minutes Played,1741
+13,Henrikh Mkhitaryan,Armenia,Minutes Played,1644
+14,Héctor Bellerín,Spain,Minutes Played,1533
+15,Laurent Koscielny,France,Minutes Played,1330
+16,Aaron Ramsey,Wales,Minutes Played,1328
+17,Ainsley Maitland-Niles,England,Minutes Played,986
+18,Stephan Lichtsteiner,Switzerland,Minutes Played,940
+19,Rob Holding,England,Minutes Played,807
+20,Petr Cech,Czech Republic,Minutes Played,585
+21,Mohamed Elneny,Egypt,Minutes Played,379
+22,Carl Jenkinson,England,Minutes Played,165
+23,Konstantinos Mavropanos,Greece,Minutes Played,149
+24,Danny Welbeck,England,Minutes Played,147
+25,Denis Suárez,Spain,Minutes Played,67
+26,Joe Willock,England,Minutes Played,64
+27,Eddie Nketiah,England,Minutes Played,63
+28,Bukayo Saka,England,Minutes Played,7
+1,Alexandre Lacazette,France,Offsides,24
+2,Pierre-Emerick Aubameyang,Gabon,Offsides,23
+3,Mesut Özil,Germany,Offsides,10
+3,Sead Kolasinac,Bosnia And Herzegovina,Offsides,10
+5,Aaron Ramsey,Wales,Offsides,4
+5,Shkodran Mustafi,Germany,Offsides,4
+7,Henrikh Mkhitaryan,Armenia,Offsides,3
+8,Alex Iwobi,Nigeria,Offsides,2
+8,Eddie Nketiah,England,Offsides,2
+8,Stephan Lichtsteiner,Switzerland,Offsides,2
+11,Ainsley Maitland-Niles,England,Offsides,1
+11,Granit Xhaka,Switzerland,Offsides,1
+11,Héctor Bellerín,Spain,Offsides,1
+11,Mohamed Elneny,Egypt,Offsides,1
+11,Nacho Monreal,Spain,Offsides,1
+16,Denis Suárez,Spain,Offsides,0
+17,Bernd Leno,Germany,Offsides,0
+17,Bukayo Saka,England,Offsides,0
+17,Carl Jenkinson,England,Offsides,0
+17,Danny Welbeck,England,Offsides,0
+17,Joe Willock,England,Offsides,0
+17,Konstantinos Mavropanos,Greece,Offsides,0
+17,Laurent Koscielny,France,Offsides,0
+17,Lucas Torreira,Uruguay,Offsides,0
+17,Matteo Guendouzi,France,Offsides,0
+17,Petr Cech,Czech Republic,Offsides,0
+17,Rob Holding,England,Offsides,0
+17,Sokratis,Greece,Offsides,0
+1,Héctor Bellerín,Spain,Own Goal,1
+2,Sead Kolasinac,Bosnia And Herzegovina,Own Goal,0
+3,Aaron Ramsey,Wales,Own Goal,0
+3,Ainsley Maitland-Niles,England,Own Goal,0
+3,Alex Iwobi,Nigeria,Own Goal,0
+3,Alexandre Lacazette,France,Own Goal,0
+3,Bernd Leno,Germany,Own Goal,0
+3,Bukayo Saka,England,Own Goal,0
+3,Carl Jenkinson,England,Own Goal,0
+3,Danny Welbeck,England,Own Goal,0
+3,Denis Suárez,Spain,Own Goal,0
+3,Eddie Nketiah,England,Own Goal,0
+3,Granit Xhaka,Switzerland,Own Goal,0
+3,Henrikh Mkhitaryan,Armenia,Own Goal,0
+3,Joe Willock,England,Own Goal,0
+3,Konstantinos Mavropanos,Greece,Own Goal,0
+3,Laurent Koscielny,France,Own Goal,0
+3,Lucas Torreira,Uruguay,Own Goal,0
+3,Matteo Guendouzi,France,Own Goal,0
+3,Mesut Özil,Germany,Own Goal,0
+3,Mohamed Elneny,Egypt,Own Goal,0
+3,Nacho Monreal,Spain,Own Goal,0
+3,Petr Cech,Czech Republic,Own Goal,0
+3,Pierre-Emerick Aubameyang,Gabon,Own Goal,0
+3,Rob Holding,England,Own Goal,0
+3,Shkodran Mustafi,Germany,Own Goal,0
+3,Sokratis,Greece,Own Goal,0
+3,Stephan Lichtsteiner,Switzerland,Own Goal,0
+1,Granit Xhaka,Switzerland,Passes,2245
+2,Shkodran Mustafi,Germany,Passes,1765
+3,Matteo Guendouzi,France,Passes,1598
+4,Lucas Torreira,Uruguay,Passes,1590
+5,Sokratis,Greece,Passes,1387
+6,Nacho Monreal,Spain,Passes,1168
+7,Mesut Özil,Germany,Passes,1118
+8,Sead Kolasinac,Bosnia And Herzegovina,Passes,971
+9,Alex Iwobi,Nigeria,Passes,951
+10,Bernd Leno,Germany,Passes,922
+11,Laurent Koscielny,France,Passes,891
+12,Henrikh Mkhitaryan,Armenia,Passes,796
+13,Héctor Bellerín,Spain,Passes,785
+14,Aaron Ramsey,Wales,Passes,773
+15,Alexandre Lacazette,France,Passes,771
+16,Pierre-Emerick Aubameyang,Gabon,Passes,692
+17,Rob Holding,England,Passes,614
+18,Stephan Lichtsteiner,Switzerland,Passes,480
+19,Ainsley Maitland-Niles,England,Passes,451
+20,Mohamed Elneny,Egypt,Passes,278
+21,Petr Cech,Czech Republic,Passes,224
+22,Konstantinos Mavropanos,Greece,Passes,137
+23,Carl Jenkinson,England,Passes,75
+24,Danny Welbeck,England,Passes,54
+25,Denis Suárez,Spain,Passes,34
+26,Eddie Nketiah,England,Passes,20
+27,Joe Willock,England,Passes,15
+28,Bukayo Saka,England,Passes,0
+1,Bernd Leno,Germany,Punches,16
+2,Petr Cech,Czech Republic,Punches,2
+3,Aaron Ramsey,Wales,Punches,0
+3,Ainsley Maitland-Niles,England,Punches,0
+3,Alex Iwobi,Nigeria,Punches,0
+3,Alexandre Lacazette,France,Punches,0
+3,Bukayo Saka,England,Punches,0
+3,Carl Jenkinson,England,Punches,0
+3,Danny Welbeck,England,Punches,0
+3,Denis Suárez,Spain,Punches,0
+3,Eddie Nketiah,England,Punches,0
+3,Granit Xhaka,Switzerland,Punches,0
+3,Héctor Bellerín,Spain,Punches,0
+3,Henrikh Mkhitaryan,Armenia,Punches,0
+3,Joe Willock,England,Punches,0
+3,Konstantinos Mavropanos,Greece,Punches,0
+3,Laurent Koscielny,France,Punches,0
+3,Lucas Torreira,Uruguay,Punches,0
+3,Matteo Guendouzi,France,Punches,0
+3,Mesut Özil,Germany,Punches,0
+3,Mohamed Elneny,Egypt,Punches,0
+3,Nacho Monreal,Spain,Punches,0
+3,Pierre-Emerick Aubameyang,Gabon,Punches,0
+3,Rob Holding,England,Punches,0
+3,Sead Kolasinac,Bosnia And Herzegovina,Punches,0
+3,Shkodran Mustafi,Germany,Punches,0
+3,Sokratis,Greece,Punches,0
+3,Stephan Lichtsteiner,Switzerland,Punches,0
+1,Ainsley Maitland-Niles,England,Red Cards,1
+1,Lucas Torreira,Uruguay,Red Cards,1
+2,Aaron Ramsey,Wales,Red Cards,0
+2,Alex Iwobi,Nigeria,Red Cards,0
+2,Alexandre Lacazette,France,Red Cards,0
+2,Bernd Leno,Germany,Red Cards,0
+2,Bukayo Saka,England,Red Cards,0
+2,Carl Jenkinson,England,Red Cards,0
+2,Danny Welbeck,England,Red Cards,0
+2,Denis Suárez,Spain,Red Cards,0
+2,Eddie Nketiah,England,Red Cards,0
+2,Granit Xhaka,Switzerland,Red Cards,0
+2,Héctor Bellerín,Spain,Red Cards,0
+2,Henrikh Mkhitaryan,Armenia,Red Cards,0
+2,Joe Willock,England,Red Cards,0
+2,Konstantinos Mavropanos,Greece,Red Cards,0
+2,Laurent Koscielny,France,Red Cards,0
+2,Matteo Guendouzi,France,Red Cards,0
+2,Mesut Özil,Germany,Red Cards,0
+2,Mohamed Elneny,Egypt,Red Cards,0
+2,Nacho Monreal,Spain,Red Cards,0
+2,Petr Cech,Czech Republic,Red Cards,0
+2,Pierre-Emerick Aubameyang,Gabon,Red Cards,0
+2,Rob Holding,England,Red Cards,0
+2,Sead Kolasinac,Bosnia And Herzegovina,Red Cards,0
+2,Shkodran Mustafi,Germany,Red Cards,0
+2,Sokratis,Greece,Red Cards,0
+2,Stephan Lichtsteiner,Switzerland,Red Cards,0
+1,Bernd Leno,Germany,Saves,105
+2,Petr Cech,Czech Republic,Saves,28
+3,Aaron Ramsey,Wales,Saves,0
+3,Ainsley Maitland-Niles,England,Saves,0
+3,Alex Iwobi,Nigeria,Saves,0
+3,Alexandre Lacazette,France,Saves,0
+3,Bukayo Saka,England,Saves,0
+3,Carl Jenkinson,England,Saves,0
+3,Danny Welbeck,England,Saves,0
+3,Denis Suárez,Spain,Saves,0
+3,Eddie Nketiah,England,Saves,0
+3,Granit Xhaka,Switzerland,Saves,0
+3,Héctor Bellerín,Spain,Saves,0
+3,Henrikh Mkhitaryan,Armenia,Saves,0
+3,Joe Willock,England,Saves,0
+3,Konstantinos Mavropanos,Greece,Saves,0
+3,Laurent Koscielny,France,Saves,0
+3,Lucas Torreira,Uruguay,Saves,0
+3,Matteo Guendouzi,France,Saves,0
+3,Mesut Özil,Germany,Saves,0
+3,Mohamed Elneny,Egypt,Saves,0
+3,Nacho Monreal,Spain,Saves,0
+3,Pierre-Emerick Aubameyang,Gabon,Saves,0
+3,Rob Holding,England,Saves,0
+3,Sead Kolasinac,Bosnia And Herzegovina,Saves,0
+3,Shkodran Mustafi,Germany,Saves,0
+3,Sokratis,Greece,Saves,0
+3,Stephan Lichtsteiner,Switzerland,Saves,0
+1,Pierre-Emerick Aubameyang,Gabon,Shots,94
+2,Alexandre Lacazette,France,Shots,81
+3,Henrikh Mkhitaryan,Armenia,Shots,49
+4,Alex Iwobi,Nigeria,Shots,35
+5,Aaron Ramsey,Wales,Shots,33
+6,Granit Xhaka,Switzerland,Shots,29
+7,Lucas Torreira,Uruguay,Shots,25
+8,Héctor Bellerín,Spain,Shots,18
+8,Shkodran Mustafi,Germany,Shots,18
+10,Matteo Guendouzi,France,Shots,16
+11,Mesut Özil,Germany,Shots,11
+11,Sokratis,Greece,Shots,11
+13,Sead Kolasinac,Bosnia And Herzegovina,Shots,9
+14,Mohamed Elneny,Egypt,Shots,7
+14,Nacho Monreal,Spain,Shots,7
+16,Ainsley Maitland-Niles,England,Shots,5
+16,Laurent Koscielny,France,Shots,5
+18,Danny Welbeck,England,Shots,4
+19,Eddie Nketiah,England,Shots,3
+20,Joe Willock,England,Shots,2
+20,Konstantinos Mavropanos,Greece,Shots,2
+20,Rob Holding,England,Shots,2
+23,Stephan Lichtsteiner,Switzerland,Shots,1
+24,Bernd Leno,Germany,Shots,0
+24,Bukayo Saka,England,Shots,0
+24,Carl Jenkinson,England,Shots,0
+24,Denis Suárez,Spain,Shots,0
+24,Petr Cech,Czech Republic,Shots,0
+1,Lucas Torreira,Uruguay,Tackles,65
+2,Shkodran Mustafi,Germany,Tackles,62
+3,Granit Xhaka,Switzerland,Tackles,52
+4,Matteo Guendouzi,France,Tackles,44
+5,Sokratis,Greece,Tackles,42
+6,Alexandre Lacazette,France,Tackles,35
+6,Nacho Monreal,Spain,Tackles,35
+8,Aaron Ramsey,Wales,Tackles,34
+8,Sead Kolasinac,Bosnia And Herzegovina,Tackles,34
+10,Ainsley Maitland-Niles,England,Tackles,33
+11,Alex Iwobi,Nigeria,Tackles,28
+11,Henrikh Mkhitaryan,Armenia,Tackles,28
+13,Pierre-Emerick Aubameyang,Gabon,Tackles,21
+14,Laurent Koscielny,France,Tackles,19
+15,Héctor Bellerín,Spain,Tackles,15
+15,Stephan Lichtsteiner,Switzerland,Tackles,15
+17,Mohamed Elneny,Egypt,Tackles,13
+18,Mesut Özil,Germany,Tackles,12
+19,Rob Holding,England,Tackles,11
+20,Carl Jenkinson,England,Tackles,3
+20,Danny Welbeck,England,Tackles,3
+22,Denis Suárez,Spain,Tackles,1
+22,Eddie Nketiah,England,Tackles,1
+22,Joe Willock,England,Tackles,1
+22,Konstantinos Mavropanos,Greece,Tackles,1
+22,Petr Cech,Czech Republic,Tackles,1
+23,Bernd Leno,Germany,Tackles,0
+23,Bukayo Saka,England,Tackles,0
+1,Granit Xhaka,Switzerland,Touches,2784
+2,Shkodran Mustafi,Germany,Touches,2223
+3,Lucas Torreira,Uruguay,Touches,2056
+4,Matteo Guendouzi,France,Touches,1965
+5,Sokratis,Greece,Touches,1699
+6,Nacho Monreal,Spain,Touches,1580
+7,Sead Kolasinac,Bosnia And Herzegovina,Touches,1469
+8,Alex Iwobi,Nigeria,Touches,1415
+9,Mesut Özil,Germany,Touches,1384
+10,Alexandre Lacazette,France,Touches,1313
+11,Bernd Leno,Germany,Touches,1276
+12,Henrikh Mkhitaryan,Armenia,Touches,1197
+13,Héctor Bellerín,Spain,Touches,1159
+14,Pierre-Emerick Aubameyang,Gabon,Touches,1132
+15,Laurent Koscielny,France,Touches,1082
+16,Aaron Ramsey,Wales,Touches,1029
+17,Ainsley Maitland-Niles,England,Touches,782
+18,Rob Holding,England,Touches,724
+19,Stephan Lichtsteiner,Switzerland,Touches,718
+20,Mohamed Elneny,Egypt,Touches,341
+21,Petr Cech,Czech Republic,Touches,315
+22,Konstantinos Mavropanos,Greece,Touches,158
+23,Carl Jenkinson,England,Touches,111
+24,Danny Welbeck,England,Touches,87
+25,Denis Suárez,Spain,Touches,59
+26,Eddie Nketiah,England,Touches,37
+27,Joe Willock,England,Touches,31
+28,Bukayo Saka,England,Touches,0
+1,Sokratis,Greece,Yellow Cards,12
+2,Granit Xhaka,Switzerland,Yellow Cards,10
+3,Matteo Guendouzi,France,Yellow Cards,9
+3,Shkodran Mustafi,Germany,Yellow Cards,9
+5,Lucas Torreira,Uruguay,Yellow Cards,7
+6,Nacho Monreal,Spain,Yellow Cards,5
+6,Sead Kolasinac,Bosnia And Herzegovina,Yellow Cards,5
+8,Héctor Bellerín,Spain,Yellow Cards,3
+8,Stephan Lichtsteiner,Switzerland,Yellow Cards,3
+10,Alexandre Lacazette,France,Yellow Cards,2
+10,Mesut Özil,Germany,Yellow Cards,2
+12,Ainsley Maitland-Niles,England,Yellow Cards,1
+12,Henrikh Mkhitaryan,Armenia,Yellow Cards,1
+12,Konstantinos Mavropanos,Greece,Yellow Cards,1
+12,Laurent Koscielny,France,Yellow Cards,1
+12,Rob Holding,England,Yellow Cards,1
+13,Aaron Ramsey,Wales,Yellow Cards,0
+13,Alex Iwobi,Nigeria,Yellow Cards,0
+13,Bernd Leno,Germany,Yellow Cards,0
+13,Bukayo Saka,England,Yellow Cards,0
+13,Carl Jenkinson,England,Yellow Cards,0
+13,Danny Welbeck,England,Yellow Cards,0
+13,Denis Suárez,Spain,Yellow Cards,0
+13,Eddie Nketiah,England,Yellow Cards,0
+13,Joe Willock,England,Yellow Cards,0
+13,Mohamed Elneny,Egypt,Yellow Cards,0
+13,Petr Cech,Czech Republic,Yellow Cards,0
+13,Pierre-Emerick Aubameyang,Gabon,Yellow Cards,0
